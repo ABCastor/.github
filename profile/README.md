@@ -1,6 +1,6 @@
 <h1><a href="https://abcastor.com"><img src="castor-header.svg" width="220" alt="Castor*"></a></h1>
 
-Castor is [two people in Torino](https://abcastor.com/who/). We build small open tools that fit together, most of them for working alongside AI agents, and we write about how people and machines work together at [abcastor.com](https://abcastor.com).
+Castor is [two people in Torino](https://abcastor.com/who/). We build modular open software, most of it for working alongside AI agents, and we write about how people and machines work together at [abcastor.com](https://abcastor.com).
 
 ### Works
 
