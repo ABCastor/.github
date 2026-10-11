@@ -29,4 +29,4 @@ Half-built, in daily use by the two of us, and not public yet: istone, an archiv
 
 [abcastor.com](https://abcastor.com) · [Writing](https://abcastor.com/writing/) · [Who we are](https://abcastor.com/who/) · [LinkedIn](https://www.linkedin.com/company/abcastor)
 
-<p><a href="https://abcastor.com"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/castor-footer.svg" width="350" alt="Chip, the Castor beaver, by Castor, we give a dam"></a></p>
+<p><a href="https://abcastor.com"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/castor-footer.svg" width="350" alt="Chip, the Castor beaver, Castor, we give a dam"></a></p>
