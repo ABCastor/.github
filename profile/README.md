@@ -23,7 +23,7 @@ In each group, the ones we use most come first.
 
 ### In the lodge
 
-<img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/chip-tree.svg" width="88" align="right" alt="A tree half gnawed through">
+<img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/chip-gnaw.svg" width="132" align="right" alt="Chip, the Castor beaver, gnawing a tree">
 
 Half-built, in daily use by the two of us, and not public yet: istone, an archive of your own data where each app or agent reads only the slice you grant it, which Edoardo leads; Mail Agent; Property Inventory; and Descant, the app our essays are written in. They are all on [abcastor.com/works](https://abcastor.com/works/).
 
