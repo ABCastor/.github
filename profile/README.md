@@ -1,6 +1,6 @@
 <h1><a href="https://abcastor.com"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/castor-header.svg" width="220" alt="Castor*"></a></h1>
 
-Castor is Emanuele Russo ([@Anneo22](https://github.com/Anneo22)) and Edoardo Avenia ([@edoardoavenia](https://github.com/edoardoavenia)), two people in Torino. We build modular open software, most of it for working alongside AI agents, and we write about how people and machines work together at [abcastor.com](https://abcastor.com/writing/).
+Castor is [Emanuele Russo](https://emanuelegrusso.com) ([@Anneo22](https://github.com/Anneo22)) and [Edoardo Avenia](https://edoardoavenia.com) ([@edoardoavenia](https://github.com/edoardoavenia)), two people in Torino. We build modular open software, most of it for working alongside AI agents, and we write about how people and machines work together at [abcastor.com](https://abcastor.com/writing/).
 
 ### Works
 
@@ -27,6 +27,8 @@ In each group, the ones we use most come first.
 
 Half-built, in daily use by the two of us, and not public yet: istone, an archive of your own data where each app or agent reads only the slice you grant it, which Edoardo leads; Mail Agent; Property Inventory; and Descant, the app our essays are written in. They are all on [abcastor.com/works](https://abcastor.com/works/).
 
-[abcastor.com](https://abcastor.com) · [Writing](https://abcastor.com/writing/) · [Who we are](https://abcastor.com/who/) · [LinkedIn](https://www.linkedin.com/company/abcastor)
+<p><a href="https://abcastor.com"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/link-castor.svg" height="16" align="absmiddle" alt=""> abcastor.com</a> &nbsp;·&nbsp; <a href="https://abcastor.com/writing/"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/link-writing.svg" height="16" align="absmiddle" alt=""> Writing</a> &nbsp;·&nbsp; <a href="https://abcastor.com/who/"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/link-who.svg" height="16" align="absmiddle" alt=""> Who we are</a></p>
+
+<p><a href="https://www.linkedin.com/company/abcastor"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/link-linkedin.svg" height="16" align="absmiddle" alt=""> Castor</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/emanuele-russo-656a10199/"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/link-linkedin.svg" height="16" align="absmiddle" alt=""> Emanuele Russo</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/edoardoavenia/"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/link-linkedin.svg" height="16" align="absmiddle" alt=""> Edoardo Avenia</a></p>
 
 <p><a href="https://abcastor.com"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/castor-footer.svg?v=2026-10-11" width="350" alt="Chip, the Castor beaver, Castor, we give a dam"></a></p>
