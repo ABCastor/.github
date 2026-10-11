@@ -31,4 +31,4 @@ Half-built, in daily use by the two of us, and not public yet: istone, an archiv
 
 <p><a href="https://www.linkedin.com/company/abcastor"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/link-linkedin.svg" height="18" align="absmiddle" alt="LinkedIn"></a>&nbsp; <a href="https://www.linkedin.com/company/abcastor">Castor</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/emanuele-russo-656a10199/">Emanuele&nbsp;Russo</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/edoardoavenia/">Edoardo&nbsp;Avenia</a></p>
 
-<p><a href="https://abcastor.com"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/castor-footer.svg?v=2026-10-11" width="350" alt="Chip, the Castor beaver, Castor, we give a dam"></a></p>
+<p><a href="https://abcastor.com"><img src="https://raw.githubusercontent.com/ABCastor/.github/main/profile/castor-footer.svg?v=2026-10-11-teal" width="350" alt="Chip, the Castor beaver, Castor, we give a dam"></a></p>
